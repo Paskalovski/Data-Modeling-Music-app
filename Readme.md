@@ -2,7 +2,7 @@
 
 Data Modeling and ETL pipelines using python 
 
-- Application purpose - future data analysis for a music streaming app
+Application purpose - future data analysis for a music streaming app
 
 ### Data Schema 
 Fact table
