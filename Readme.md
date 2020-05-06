@@ -1,4 +1,4 @@
-### Data Modeling - Music app 
+### Data Warehouse - Music app 
 
 Data Modeling and ETL pipelines using python 
 
